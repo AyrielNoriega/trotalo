@@ -114,6 +114,15 @@
 
 .text-footer {
 	font-weight: 700;
-	font-size: 16px;
+	font-size: 26px;
+	color: white;
 }
 
+footer button {
+	font-size: 19px !important;
+}
+
+
+.w20 {
+	min-width: 230px;
+}
