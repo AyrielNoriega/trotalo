@@ -79,6 +79,41 @@
 
 }
 
-.card-img-top {	
+.mwith{	
 	max-width: 130px;
 }
+
+.bg-orange {
+	background-color: orange !important;
+}
+
+.card-text {
+	font-weight: 600;
+}
+
+
+.w-55 {
+	max-width: 250px;
+}
+
+.w-20{
+	max-width: 255px;
+}
+
+
+@media (min-width: 768px) { 
+
+	.pxauto {
+
+		padding-left: 300px;
+		padding-right: 300px;
+	}
+
+ }
+
+
+.text-footer {
+	font-weight: 700;
+	font-size: 16px;
+}
+
