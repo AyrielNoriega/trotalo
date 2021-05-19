@@ -1,0 +1,84 @@
+*{
+	font-weight: 700;
+}
+
+.row-header {
+	background-color: aquamarine;
+}
+
+.header-baner {
+	height: 40vh;
+	background-image: url('../images/Banner_with\ text.jpg');
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.btnKc {
+	background-color: #C3D213;
+	color: black;
+	font-weight: 700;
+	border-radius: 50px;
+	border: 0;
+}
+
+.bg-header {
+	background-color: #8000809c;
+}
+
+.text-header {
+	color: white;
+}
+
+.img-list {
+	max-height: 78px;
+}
+
+.style-list {
+	list-style: none;
+}
+
+.btnOur {
+	width: 184px;
+	height: 50px;
+	font-size: 20px;
+}
+
+.style-list li {
+	display: flex;
+}
+ 
+
+.missionLi {
+	font-weight: 700;
+	font-size: 15px;
+}
+ 
+.img-classroom {
+	/* background-image: url('../images/Asset-02.png'); */
+	height: 200px;
+}
+
+.bg-aqua, .cardColor {
+	background-color: aquamarine;
+}
+
+.card {
+	border: 0;
+}
+
+.bgPurple {
+	background-color: #8000809c !important;
+}
+ 
+.cardCurriculum {
+	max-width: 325px;
+	background-color:  transparent !important;
+	color: white;
+	align-items: center;
+    text-align: center;
+
+}
+
+.card-img-top {	
+	max-width: 130px;
+}
